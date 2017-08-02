@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="zgrs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/zgrs_jar</output-path>
+    <root id="archive" name="zgrs.jar">
+      <element id="module-output" name="zgrs" />
+    </root>
+  </artifact>
+</component>
